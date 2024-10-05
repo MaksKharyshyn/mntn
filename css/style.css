@@ -1,0 +1,77 @@
+.wrapper {
+    background-color: #000000;
+}
+
+.nav_link {
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 21.09px;
+    text-align: left; 
+    color: #ffffff; 
+} 
+
+.account_link {
+    font-family: Raleway;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.social_text {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.mountains_title {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.prepared_title {
+font-family: Roboto;
+font-size: 88px;
+font-weight: 600;
+line-height: 100px;
+text-align: left;
+color: #ffffff;
+}
+
+.prepared_text {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.start_text {
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+.opacity_number {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;    
+}
+
+
+

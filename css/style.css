@@ -141,6 +141,125 @@
     color: #ffffff;
 }
 
+.last_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    line-height: 21.76px;
+    text-align: left;
+    color: #FBD784;
+}
+
+/* hiking styles */
+
+.number_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.hiking_text {
+    font-family: Chronicle Display;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76.8px;
+    text-align: left;
+    color: #ffffff;
+}
+
+/* key styles */
+
+.key_one_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.key_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;   
+}
+
+.key_title {
+    font-family: Chronicle Display;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76.8px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.key_sub_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+}
+
+/* footer styles */
+
+.footer_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.footer_sub_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: gray;
+}
+
+.middle_title {
+    font-family: Gilroy;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.middle_link {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.right_title {
+    font-family: Gilroy;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #FBD784; 
+}
+
+.right_link {
+    
+}
 
 
 

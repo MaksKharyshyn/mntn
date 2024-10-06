@@ -38,12 +38,12 @@
 }
 
 .prepared_title {
-font-family: Roboto;
-font-size: 88px;
-font-weight: 600;
-line-height: 100px;
-text-align: left;
-color: #ffffff;
+    font-family: Roboto;
+    font-size: 88px;
+    font-weight: 600;
+    line-height: 100px;
+    text-align: left;
+    color: #ffffff;
 }
 
 .prepared_text {
@@ -63,8 +63,10 @@ color: #ffffff;
     color: #FFFFFF;
 }
 
+/* level styles */
+
 .opacity_number {
-    font-family: Gilroy;
+    font-family: Raleway;
     font-size: 18px;
     font-weight: 800;
     line-height: 22px;
@@ -72,6 +74,78 @@ color: #ffffff;
     text-align: left;
     color: #FBD784;    
 }
+
+.level_text {
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77px;
+    text-align: left;
+    color: #ffffff;    
+}
+
+.prepared_title {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;   
+}
+
+.prepared_text {
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: left;
+    color: #FBD784;    
+}
+
+/*level styles */
+
+.opacity_number {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.level_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22.05px;
+    letter-spacing: 6px;
+    text-align: left;
+    color: #FBD784;
+}
+
+.level_title {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.level_sub_text {
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+
+
+
+
 
 
 
